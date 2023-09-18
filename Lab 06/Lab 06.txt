@@ -1,0 +1,100 @@
+File,	9,	100,	900
+Pen,	4,	55,	220
+Hightlighter,	14,	80,	1120
+File,	14,	125,	1750
+Paper,	14,	50,	700
+Eraser,	8,	75,	600
+Paper,	4,	10,	40
+Hightlighter,	5,	15,	75
+Sticky notes,	14,	55,	770
+Eraser,	11,	80,	880
+File,	5,	35,	175
+Eraser,	14,	80,	1120
+Corrector,	8,	10,	80
+Pencil,	4,	55,	220
+Paper,	14,	50,	700
+Sticky notes,	14,	100,	1400
+Book,	10,	80,	800
+Eraser,	6,	75,	450
+Sticky notes,	5,	10,	50
+Book,	2,	35,	70
+Paper,	2,	80,	160
+Pencil,	12,	15,	180
+Sticky notes,	6,	10,	60
+Adhesive tapes,	8,	55,	440
+Adhesive tapes,	9,	80,	720
+File,	8,	10,	80
+Paper,	12,	100,	1200
+File,	8,	10,	80
+Eraser,	10,	100,	1000
+Sticky notes,	2,	10,	20
+Paper,	4,	55,	220
+Eraser,	11,	35,	385
+File,	5,	125,	625
+Eraser,	11,	50,	550
+Corrector,	14,	15,	210
+Hightlighter,	11,	55,	605
+Corrector,	2,	50,	100
+Sticky notes,	2,	75,	150
+Book,	5,	100,	500
+Paper,	9,	75,	675
+Pen,	8,	50,	400
+Adhesive tapes,	2,	55,	110
+Corrector,	2,	50,	100
+Paper,	2,	75,	150
+Adhesive tapes,	9,	100,	900
+Pencil,	10,	100,	1000
+Paper,	9,	125,	1125
+File,	10,	80,	800
+Pen,	8,	50,	400
+Paper,	5,	125,	625
+Hightlighter,	2,	80,	160
+Pen,	14,	35,	490
+Hightlighter,	2,	75,	150
+Paper,	8,	10,	80
+Pen,	14,	15,	210
+Paper,	4,	35,	140
+File,	11,	15,	165
+Adhesive tapes,	8,	35,	280
+Pen,	4,	15,	60
+Pen,	9,	100,	900
+Book,	2,	35,	70
+Pen,	14,	100,	1400
+Corrector,	2,	15,	30
+File,	5,	125,	625
+Corrector,	12,	55,	660
+Paper,	9,	55,	495
+File,	11,	75,	825
+Book,	2,	15,	30
+Sticky notes,	11,	80,	880
+Sticky notes,	12,	55,	660
+Book,	10,	15,	150
+Eraser,	11,	100,	1100
+Hightlighter,	11,	125,	1375
+Pencil,	8,	50,	400
+Pen,	4,	55,	220
+Book,	11,	15,	165
+Paper,	12,	40,	480
+Pen,	9,	125,	1125
+Adhesive tapes,	11,	55,	605
+Corrector,	4,	40,	160
+Pen,	12,	100,	1200
+Paper,	14,	125,	1750
+Adhesive tapes,	10,	100,	1000
+Corrector,	9,	80,	720
+Pen,	12,	35,	420
+File,	14,	50,	700
+Hightlighter,	2,	100,	200
+Paper,	12,	40,	480
+Corrector,	14,	40,	560
+File,	12,	80,	960
+File,	12,	15,	180
+Pen,	12,	10,	120
+Pencil,	5,	40,	200
+Hightlighter,	9,	50,	450
+Adhesive tapes,	8,	40,	320
+Pencil,	4,	80,	320
+Corrector,	4,	100,	400
+Book,	4,	75,	300
+File,	14,	80,	1120
+Paper,	9,	125,	1125
