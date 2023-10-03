@@ -1,55 +1,70 @@
-# Write a Python program to implement a Stack class that has the following functions
-
-#Push Item
-#Pop Item
-#Print the Items in the stack
-#Size of Stack
-#The top item in the stack
-#Check if the stack is empty
-
-class stack:
-
+class stacking:
+   
     def __init__(self) -> None:
-        self.stack=[]
+        self.stack = []
 
     def push(self,value):
         self.stack.append(value)
-        print (self.stack)
+        print(self.stack)
 
     def pop(self,value):
         self.stack.pop(value)
-        print (self.stack)
+        print(self.stack)
 
-    def print(self):
+    def display(self):
         for items in self.stack:
             print(items)
 
-    def len(self):
+    def size(self):
         print(len(self.stack))
 
-    def topmost_item(self):
+    def top_item(self):
         print(self.stack[len(self.stack)-1])
 
-    def checking_stack(self):
-        if len(self.stack)==0:
-            print('Stack is empty')
+    def check(self):
+        if len(self.stack) == 0:
+            print('The stack is empty.')
         else:
-            print('Stack is not empty')
+            print('The stack is not empty.')
 
-set_stack=stack()
+stack_1 = stacking()
+stack_1.push('Apple')
+stack_1.push('Orange')
+stack_1.push('Mango')
+stack_1.pop(2)
+stack_1.display()
+stack_1.size()
+stack_1.top_item()
+stack_1.check()
 
-set_stack.push('Pen')
-set_stack.push('Pencil')
-set_stack.push('Eraser')
-set_stack.push('Paper')
-set_stack.pop(2)
-set_stack.print()
-set_stack.len()
-set_stack.topmost_item()
-set_stack.checking_stack()
+while True:
+    print('1. Push a value.')
+    print('2. Pop a value.')
+    print('3. Print items in the stack.')
+    print('4. Print size of the stack.')
+    print('5. Display top-most item in the stack.')
+    print('6. Check if the stack is empty.')
+    print('7. Exit')
 
+    choice = int(input('Enter your choice: '))
 
-    
-
-
-
+    if choice == 1:
+        value = input('Enter the value to be added into the stack: ')
+        stack_1.push(value)
+        print(stack_1)
+    elif choice == 2:
+        value = int(input('Enter the index number of item to be removed: '))
+        stack_1.pop(value)
+        print(stack_1)
+    elif choice == 3:
+        stack_1.display()
+    elif choice == 4:
+        stack_1.size()
+    elif choice == 5:
+        stack_1.top_item()
+    elif choice == 6:
+        stack_1.check()
+    elif choice == 7:
+        exit
+    else:
+        print('Invalid option.')
