@@ -1,18 +1,7 @@
-# Define a class expense tracker that stores the
-# expenses and income in a dicticonary
-# implement the method to 
-# - store the transactions:
-# - view transactions:
-# - calculate the total expense/income
-# define a class expense tracker that stores the
-# expenses and income in a dictionary
-# implement the method to
-# - store the transaction;
-# - view transactions;
-# - calculate the total expense/income
-# create a method in the class
-# to export the details in the from of csv
-# add export details to a file in the menu options
+
+
+
+
 
 
 class expenseTracker:
@@ -24,7 +13,7 @@ class expenseTracker:
 
     def store_transactions(self, type, amt, category, date, details):
         trans = {
-            "Amount": amt ,
+            "Amount": amt 
             "Category": category ,
             "Date": date ,
             "Details": details ,

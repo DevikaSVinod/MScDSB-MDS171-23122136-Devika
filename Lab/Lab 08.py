@@ -1,6 +1,6 @@
 class stacking:
    
-    def __init__(self) -> None:
+    def __init__(self):
         self.stack = []
 
     def push(self,value):
@@ -24,7 +24,7 @@ class stacking:
     def check(self):
         if len(self.stack) == 0:
             print('The stack is empty.')
-        else:
+        else:             
             print('The stack is not empty.')
 
 stack_1 = stacking()
