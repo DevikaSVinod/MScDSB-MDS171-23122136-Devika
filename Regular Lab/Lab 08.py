@@ -1,3 +1,11 @@
+#Write a Python program to implement a Stack class that has the following functions
+#Push Item
+#Pop Item
+#Print the Items in the stack
+#Size of Stack
+#The top item in the stack
+#Check if the stack is empty
+
 class stacking:
    
     def __init__(self):
