@@ -6,7 +6,7 @@ Class:MSDS B
 Email: devika.vinod@msds.christuniversity.in
 
 ## Index
-|Sl.no||Folder Name|Description
+|Sl.no|Folder Name|Description|
 |:----:|:----:|:---:|
 |01|CAC|CAC Project works|
 |02|Regular Class|Regular practice done in class hours|
