@@ -6,7 +6,6 @@
 # calculate the total expense/income
 
 
-
 class expenseTracker:
     def __init__(self):
         self.expenseDict = {
@@ -16,7 +15,7 @@ class expenseTracker:
 
     def store_transactions(self, type, amt, category, date, details):
         trans = {
-            "Amount": amt 
+            "Amount": amt ,
             "Category": category ,
             "Date": date ,
             "Details": details ,
