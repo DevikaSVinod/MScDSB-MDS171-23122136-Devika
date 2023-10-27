@@ -24,6 +24,7 @@ class petStore:
 
         }
         self.pets[type].append(temp)
+        
 P=petStore()        
 print(P.pets)
 P.storePet("Dog","pomerian","5000","4")
@@ -38,23 +39,3 @@ for i in P.pets:
     print(P.pets[i])
     for item in P.pets[i]:
         print(item["breedName"])
-        
-
-
-
-
-        
-
-
-        
-
-
-
-
-
-
-        
-
-        
-
-        
