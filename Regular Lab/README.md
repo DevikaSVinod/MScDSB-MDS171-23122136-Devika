@@ -16,5 +16,5 @@ Email: devika.vinod@msds.christuniversity.in
 |6.|14-09-23|Lab06|Write a program to mix and match items|https://github.com/DevikaSVinod/MScDSB-MDS171-23122136-Devika/tree/ac91deadeb96ad1b9ec9c0af4706fc76ab4a36f4/Lab%2006|
 |7.|21-09-23|Lab07|Write a program to track income and expenses|https://github.com/DevikaSVinod/MScDSB-MDS171-23122136-Devika/blob/ac91deadeb96ad1b9ec9c0af4706fc76ab4a36f4/Lab%2007.py|
 |8.|03-10-23|Lab08|Write a program to stack class and use various methods|https://github.com/DevikaSVinod/MScDSB-MDS171-23122136-Devika/blob/ac91deadeb96ad1b9ec9c0af4706fc76ab4a36f4/Lab%2008.py|
-|9.|10-10-23|Lab09|Write a program to stack class and use various methods|https://github.com/DevikaSVinod/MScDSB-MDS171-23122136-Devika/blob/ac91deadeb96ad1b9ec9c0af4706fc76ab4a36f4/Lab%2008.py|
-|10.|26-10-23|Lab10|Write a program to stack class and use various methods|https://github.com/DevikaSVinod/MScDSB-MDS171-23122136-Devika/blob/ac91deadeb96ad1b9ec9c0af4706fc76ab4a36f4/Lab%2008.py|
+|9.|10-10-23|Lab09|Write a program to manage pet store|https://github.com/DevikaSVinod/MScDSB-MDS171-23122136-Devika/blob/ac91deadeb96ad1b9ec9c0af4706fc76ab4a36f4/Lab%2008.py|
+|10.|26-10-23|Lab10|Write a program to manage student details|https://github.com/DevikaSVinod/MScDSB-MDS171-23122136-Devika/blob/ac91deadeb96ad1b9ec9c0af4706fc76ab4a36f4/Lab%2008.py|
